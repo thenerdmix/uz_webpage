@@ -8,6 +8,27 @@
 
 <title> Link utili </title>
 
+<style>
+* {
+    box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+
 </head>
 
 <body>
@@ -18,6 +39,29 @@
 
 <h1>Qualche link utile</h1>
 <p>In realtà questa lista di link utili mi è comoda come enorme bookmark. </p>
+
+<div class="row">
+
+    <div class="column">
+        <p><b>cp: </b>
+            <a href="https://www.geeksforgeeks.org/">gg</a>, 
+            <a href="https://github.com/rossanoventurini/CompetitiveProgramming">venturini</a>, 
+            <a href="https://cp-algorithms.com/">cp algorithms</a>
+        </p>
+    </div>
+
+    <div class="column">
+        <p><b>problemi di fisica: </b>
+            <a href="http://kirkmcd.princeton.edu/examples/">McDonald</a>, 
+            <a href="https://www.ioc.ee/~kalda/ipho/rec-list.html">Kalda</a>
+        </p>
+    </div>
+
+    <div class="column">
+    </div>
+
+</div>
+
 </body>
 </html>
 
