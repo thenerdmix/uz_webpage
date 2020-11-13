@@ -63,6 +63,11 @@
 	</div>
 
 	<div class="column">
+		<p><b>sns</b>: 
+			<a href="https://spazi.sns.it/schedule.php?&sid=31">pranzo</a>,
+			<a href="https://spazi.sns.it/schedule.php?&sid=32">cena</a>,
+			<a href="https://spazi.sns.it/schedule.php?&sid=32">lavatrici fermi</a>
+		</p>
 	</div>
 
 
