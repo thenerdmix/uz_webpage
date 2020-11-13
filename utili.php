@@ -66,7 +66,7 @@
 		<p><b>sns</b>: 
 			<a href="https://spazi.sns.it/schedule.php?&sid=31">pranzo</a>,
 			<a href="https://spazi.sns.it/schedule.php?&sid=32">cena</a>,
-			<a href="https://spazi.sns.it/schedule.php?&sid=32">lavatrici fermi</a>
+			<a href="https://lavatrici.zion.sns.it/">lavatrici fermi</a>
 		</p>
 	</div>
 
