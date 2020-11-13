@@ -57,7 +57,8 @@
 	<div class="column">
 		<p><b>fisica</b>: 
 			<a href="http://kirkmcd.princeton.edu/examples/">McDonald</a>,
-			<a href="https://www.ioc.ee/~kalda/ipho/rec-list.html">Kalda</a>
+			<a href="https://www.ioc.ee/~kalda/ipho/rec-list.html">Kalda</a>,
+			<a href="https://stagefisica.sns.it/">Stage Pisa</a>
 		</p>
 	</div>
 
