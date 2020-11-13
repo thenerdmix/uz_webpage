@@ -47,18 +47,18 @@
 			<a href="https://www.geeksforgeeks.org/">gg</a>,
 			<a href="https://github.com/rossanoventurini/CompetitiveProgramming">venturini</a>,
 			<a href="https://cp-algorithms.com/">cp algorithms</a>
-		<\p>
+		</p>
 		<p><b>google</b>: 
 			<a href="https://mail.google.com/">gmail</a>,
 			<a href="https://drive.google.com/">drive</a>
-		<\p>
+		</p>
 	</div>
 
 	<div class="column">
 		<p><b>fisica</b>: 
 			<a href="http://kirkmcd.princeton.edu/examples/">McDonald</a>,
 			<a href="https://www.ioc.ee/~kalda/ipho/rec-list.html">Kalda</a>
-		<\p>
+		</p>
 	</div>
 
 	<div class="column">
