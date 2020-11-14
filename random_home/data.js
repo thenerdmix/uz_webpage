@@ -9,7 +9,7 @@ data = [
     },
     {
         "src": "random_home/pics/altissimo.jpg",
-        "caption" : "Il <a href=\"https://it.wikipedia.org/wiki/Monte_Altissimo_di_Nago\">monte Altissimo</a>\", al confine tra la provincia di Trento e quella di Verona, offre una splendida vista sul lago di Garda."
+        "caption" : "Il <a href=\"https://it.wikipedia.org/wiki/Monte_Altissimo_di_Nago\">monte Altissimo</a>, al confine tra la provincia di Trento e quella di Verona, offre una splendida vista sul lago di Garda."
     }
 ];
 
