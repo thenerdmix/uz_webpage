@@ -1,10 +1,9 @@
 window.onload = choosePic;
 
-var myPix = new Array("images/lion.jpg","images/tiger.jpg","images/bear.jpg");
-
 function choosePic(){
-    var randomNum = Math.floor(Math.random() * myPix.length);
-    document.getElementById("myPicture").src = myPix[randomNum];
+    var r = Math.floor(Math.random() * data.length);
+    document.getElementById("immagine").src = data[r].src;
+    document.getElementById("descrizione").innerHTML = data[r].age;
     alert(data[0].name);
     alert(data[0].age);
     alert(data[1].name);
