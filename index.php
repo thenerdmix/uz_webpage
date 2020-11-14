@@ -19,8 +19,8 @@
 <h1>fradeb's homepage</h1>
 <center>
 <figure>
-	<img id="immagine" src="pics/index/tovel.jpg" alt="Lago di Tovel" style="width:100%" />
-	<figcaption><i><div id="descrizione">Il <a href="https://it.wikipedia.org/wiki/Lago_di_Tovel">lago di Tovel</a> in Val di Non è uno tra i laghi alpini più belli d'Europa.</div></i></figcaption>
+	<img id="immagine" src="" alt="" style="width:100%" />
+	<figcaption><i><div id="descrizione"></div></i></figcaption>
 </figure>
 </center>
 </body>
