@@ -48,10 +48,6 @@
 			<a href="https://github.com/rossanoventurini/CompetitiveProgramming">venturini</a>,
 			<a href="https://cp-algorithms.com/">cp algorithms</a>
 		</p>
-		<p><b>google</b>: 
-			<a href="https://mail.google.com/">gmail</a>,
-			<a href="https://drive.google.com/">drive</a>
-		</p>
 	</div>
 
 	<div class="column">
@@ -67,6 +63,19 @@
 			<a href="https://spazi.sns.it/schedule.php?&sid=31">pranzo</a>,
 			<a href="https://spazi.sns.it/schedule.php?&sid=32">cena</a>,
 			<a href="https://lavatrici.zion.sns.it/">lavatrici fermi</a>
+		</p>
+		<p><b>google</b>: 
+			<a href="https://mail.google.com/">gmail</a>,
+			<a href="https://drive.google.com/">drive</a>
+		</p>
+		<p><b>unipi</b>: 
+			<a href="https://teams.microsoft.com/">teams</a>,
+			<a href="https://outlook.office365.com/">outlook</a>,
+			<a href="https://elearning.df.unipi.it/">moodle</a>
+		</p>
+		<p><b>git</b>: 
+			<a href="http://github.com/">github</a>,
+			<a href="https://gitlab.com/">gitlab</a>
 		</p>
 	</div>
 
