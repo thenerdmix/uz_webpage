@@ -45,7 +45,7 @@
 	<div class="column">
 		<p><b>cp</b>: 
 			<a href="https://www.geeksforgeeks.org/">gg</a>,
-			<a href="https://github.com/rossanoventurini/CompetitiveProgramming">venturini</a>,
+			<a href="https://github.com/rossanoventurini/CompetitiveProgramming#Lectures">venturini</a>,
 			<a href="https://cp-algorithms.com/">cp algorithms</a>
 		</p>
 	</div>
