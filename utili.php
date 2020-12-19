@@ -48,6 +48,9 @@
 			<a href="https://github.com/rossanoventurini/CompetitiveProgramming#Lectures">venturini</a>,
 			<a href="https://cp-algorithms.com/">cp algorithms</a>
 		</p>
+		<p><b>mathematica</b>: 
+			<a href="https://www.wolfram.com/wolfram-u/an-elementary-introduction-to-the-wolfram-language/">elementary introduction</a>
+		</p>
 	</div>
 
 	<div class="column">
